@@ -6,7 +6,7 @@ oracle is an open-source TypeScript framework designed to help developers quickl
 
 The framework leverages large language models (LLMs) to generate human-like responses, allowing agents to maintain consistent personalities and interact with users in a natural, context-aware manner. Oracle streamlines the process of building and deploying AI agents, making it easier for developers to focus on crafting unique personas and engaging content.
 
-## Key Features of oracle framework include:
+## Key Features:
 
 * **AI-Powered Interactions**: oracle utilizes LLMs to generate responses and posts that closely resemble human communication patterns, enabling agents to maintain coherent and engaging conversations with users.
 
