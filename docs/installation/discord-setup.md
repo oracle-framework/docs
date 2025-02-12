@@ -1,5 +1,4 @@
-Discord Set Up For Normies
-A Simple Guide to Setting up your Agent on Discord.
+Discord Set Up For Normies. A Simple Guide to Setting up your Agent on Discord.
 
 1. Go to https://discord.com/developers/
 2. Login or create a developer account if you've not done so.
