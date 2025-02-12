@@ -9,7 +9,7 @@ Discord Set Up For Normies. A Simple Guide to Setting up your Agent on Discord.
 ![Screenshot 2025-02-12 at 03 39 42](https://github.com/user-attachments/assets/d3df3135-1e19-4a01-bafe-4fe7bd9d64d8)
 
 5. After creating the bot, you'll be directed to the general information page, which includes the description and logo.
-Note: Click on Copy Application ID and save it in your notes—this will be useful during the character setup step in configuration.md.
+Note: Click on Copy Application ID and save it in your notes—this will be useful during the character setup step in docs/installation/configuration.md
 Leave the Endpoint URL, Application URL, Service URL, and Policy URL fields blank, as they are not needed.
 ![Screenshot 2025-02-12 at 03 53 00](https://github.com/user-attachments/assets/4db82a47-2163-4c31-b6fa-2c2d9dd3245b)
 
@@ -41,4 +41,4 @@ Your Discord bot will need Administrator permissions to function properly while 
 This allows the bot to respond to tags and messages and operate as a moderator in the server.
 ![Screenshot 2025-02-12 at 04 43 37](https://github.com/user-attachments/assets/34fcba33-9d3f-4e29-ad33-5158627295d8)
 
-12. You’ve completed the Discord bot setup! Now, follow the instructions to run your agent and complete the setup. Check running-agent.md.
+12. You’ve completed the Discord bot setup! Now, follow the instructions to run your agent and complete the setup. Check docs/installation/running-agent.md
