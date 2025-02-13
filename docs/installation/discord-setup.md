@@ -9,7 +9,7 @@ A Simple Guide to Setting up your Agent on Discord.
 ![Screenshot 2025-02-12 at 03 39 42](https://github.com/user-attachments/assets/d3df3135-1e19-4a01-bafe-4fe7bd9d64d8)
 
 6. After creating the bot, you'll be directed to the general information page, which includes the description and logo.
-Note: Click on Copy Application ID and save it in your notes—this will be useful during the character setup step in [configuration.md](.docs/blob/main/docs/installation/configuration.md)
+Note: Click on Copy Application ID and save it in your notes—this will be useful during the character setup step in [configuration.md](https://github.com/NBGtega/docs/blob/main/docs/installation/configuration.md)
 Leave the Endpoint URL, Application URL, Service URL, and Policy URL fields blank, as they are not needed.
 ![Screenshot 2025-02-12 at 03 53 00](https://github.com/user-attachments/assets/4db82a47-2163-4c31-b6fa-2c2d9dd3245b)
 
